@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='fixer-demo',
-      version='0.1',
+      version='0.2',
       description='fixer service demo package',
       url='https://github.com/nima733/FixerPackage.git',
       outher='Nima',
