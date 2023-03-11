@@ -7,5 +7,6 @@ setup(name='fixer-demo',
       outher='Nima',
       outher_email='nima.abbasnejad14@gmail.com',
       license='MIT',
+      install_requires=['requests'],
       packages=['fixer'],
       zip_safe=False)
